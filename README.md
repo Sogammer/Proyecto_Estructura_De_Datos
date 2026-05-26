@@ -2,7 +2,7 @@
 
 ---
 
-## 👥 Integrantes del Grupo
+## Integrantes del Grupo
 
 | Nombre Completo | Código UIS |
 | :--- | :--- |
