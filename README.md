@@ -4,7 +4,7 @@
 
 ## Integrantes del Grupo
 
-| Nombre Completo | Código UIS |
+| Nombre Completo | Código |
 | :--- | :--- |
 | Hanner Ferley Sogamoso Jimenez | 2201447 |
 
